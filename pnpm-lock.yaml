@@ -46,7 +46,7 @@ dependencies:
     version: 4.6.8
   reflect-metadata:
     specifier: ^0.2.0
-    version: 0.2.0
+    version: 0.2.2
   typedi:
     specifier: ^0.10.0
     version: 0.10.0
@@ -5615,8 +5615,8 @@ packages:
       '@redis/time-series': 1.0.5(@redis/client@1.5.9)
     dev: false
 
-  /reflect-metadata@0.2.0:
-    resolution: {integrity: sha512-vUN0wuk3MuhSVMfU/ImnPQAK8QZcXJ339DtVsP3jDscxCe6dT+PsOe3J1BYS9Ec2Fd4oC6ry6bCBebzTya0IYw==}
+  /reflect-metadata@0.2.2:
+    resolution: {integrity: sha512-urBwgfrvVP/eAyXx4hluJivBKzuEbSQs9rKWCrCkbSxNv8mxPcUZKeuoF3Uy4mJl3Lwprp6yy5/39VWigZ4K6Q==}
     dev: false
 
   /reflect.getprototypeof@1.0.3:
